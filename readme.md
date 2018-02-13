@@ -1,5 +1,7 @@
 ﻿# Server Side React + Asp.Net Web Forms + TypeScript
-A Demo showing how to integrate Server Side React with Asp.Net Webforms.
+An example showing how to integrate Server Side React with Asp.Net Webforms.
+
+
 
 > We use [ReactJS.Net](https://reactjs.net/)
 
@@ -14,6 +16,7 @@ File                                    |   What is it?
 /package.json                           |   Project Npm Packages
 /Controls/ReactComponentSelector.cs     |   Custom Asp.Net Server Control to help add React component to the page.
 /src/components/*                       |   React Components
+/Default.aspx                           |   Uses the Server Control to add the React Components
 
 > Also need some Nuget package:React.Web.Mvc4
 

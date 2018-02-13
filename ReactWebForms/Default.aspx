@@ -8,7 +8,7 @@
     <h1>ReactJs.Net Web Forms</h1>
     <p>Using React.Component</p>
 
-    <a href="readme.md">readme.md</a>
+ 
 
     <div style="border: 1px solid green; min-height: 50px;">
         <ReactWebForms:ReactComponentSelector ID="ReactComponentSelector1" runat="server" ComponentName="HelloWorld" HelloWorldUserName="Mr Mark" />
