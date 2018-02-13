@@ -2,9 +2,7 @@
 
 <%@ Register Assembly="ReactWebForms" Namespace="ReactWebForms.Controls" TagPrefix="ReactWebForms" %>
 
-
-
-
+ 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h1>ReactJs.Net Web Forms</h1>

@@ -28,7 +28,7 @@ namespace ReactWebForms
              
 
             ReactSiteConfiguration.Configuration
-                .AddScript("~/Scripts/src/components/helloWorld.jsx")
+                .AddScript("~/dist/components/helloWorld.jsx")
                 .AddScript("~/dist/components/helloWorld2.jsx")
                 .AddScript("~/dist/components/react-image.jsx");
         }
