@@ -17,9 +17,9 @@ File                                    |   What is it?
 /Controls/ReactComponentSelector.cs     |   Custom Asp.Net Server Control to help add React component to the page.
 /src/components/*                       |   React Components
 /Default.aspx                           |   Uses the Server Control to add the React Components
-/tsconfig.json                          |   TypeScript Configuration for this project       
+/tsconfig.json                          |   Typescript Configuration for this project       
 
-> Also need some Nuget package:React.Web.Mvc4
+> Also need Nuget package and dependencies: React.Web.Mvc4
 
 
 
@@ -29,7 +29,7 @@ File                                    |   What is it?
 
 [React Server Side Web Forms](https://github.com/adamvaul/React-Server-Side-Web-Forms/tree/master/WebApplication1/WebApplication1)
 
-[Adding TypeScript to a Project](https://reactjs.org/docs/static-type-checking.html#typescript)
+[Adding Typescript to a Project](https://reactjs.org/docs/static-type-checking.html#typescript)
 
  
 
