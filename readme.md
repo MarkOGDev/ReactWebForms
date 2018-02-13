@@ -17,6 +17,7 @@ File                                    |   What is it?
 /Controls/ReactComponentSelector.cs     |   Custom Asp.Net Server Control to help add React component to the page.
 /src/components/*                       |   React Components
 /Default.aspx                           |   Uses the Server Control to add the React Components
+/tsconfig.json                          |   TypeScript Configuration for this project       
 
 > Also need some Nuget package:React.Web.Mvc4
 
